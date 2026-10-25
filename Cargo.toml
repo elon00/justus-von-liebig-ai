@@ -1,0 +1,6 @@
+[package]
+name = "justus-von-liebig-ai"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
