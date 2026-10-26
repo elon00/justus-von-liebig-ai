@@ -1,0 +1,14 @@
+{
+  "project": "justus-von-liebig-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "F2np4JopkzcRzjsmZxfzkTz4MVzjtpTesrBgh8f4ayKX",
+  "vault_account": "3YQkwJiusP3D6cvX52UvtMQYYKNc6e5CkTN6skYApAyC",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3xX8diVepEk31CkaHhE52hZiUz2g4LWEBnXNkAw5X8xq1NFUa4jyxVrzGMYsf9cfxgQ8zPcWauC67t1qaMKvvbug",
+  "account_tx": "3eGWffe6rTwBx2yPEMirVUpMMFDiVVo5mktatxdgU16HDATRX74rXn6uwwzfQgpA8pZjdCKgKfPKq8b6Gr7x8gsi",
+  "mint_tx": "5TFvUhytaBHcbjvZiaSY9HPBF2tebdhHpQN8byDPX8Vwh3ZzECv3hXaXWMiSzSS9CzdRFFe4eCM6cwbrheWZRnoj",
+  "solana_explorer_mint": "https://explorer.solana.com/address/F2np4JopkzcRzjsmZxfzkTz4MVzjtpTesrBgh8f4ayKX?cluster=devnet",
+  "timestamp": "2026-10-26 16:46:03 UTC"
+}
